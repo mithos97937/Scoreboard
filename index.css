@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.button {
+    background-color: #1B244A;
+
+}
+
+
+.score {
+    background-color: black;
+    color:#F94F6D;
+    }
+    
+.title{
+    color: white;
+}
