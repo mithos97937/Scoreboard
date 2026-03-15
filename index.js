@@ -36,3 +36,11 @@ function addGuest3() {
     guestPoints += 3
     guestScore.textContent = guestPoints
 }
+
+window.addHome1 = addHome1
+window.addHome2 = addHome2
+window.addHome3 = addHome3
+
+window.addGuest1 = addGuest1
+window.addGuest2 = addGuest2
+window.addGuest3 = addGuest3
